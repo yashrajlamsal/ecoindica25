@@ -1,0 +1,69 @@
+baseURL: https://ecoindica.com/
+languageCode: en-us
+title: Economic Indicators
+theme: PaperMod
+
+
+disqusShortname: yourDisqusShortname
+
+googleAnalytics: G-31C4PJYWFE
+googleAnalytics_v4: G-31C4PJYWFE
+
+params:
+  homeInfoParams:
+    Title: "Economic Indicators"
+    Content: Welcome you to our website. Here you'll find recent macroeconomic data and its visualization.
+
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  comments: true
+
+#analytics:
+#    google:
+#      SiteVerificationTag: "XYZabc"
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+
+
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: false
+    disable: false
+    respectDoNotTrack: false
+    useSessionStorage: false
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
