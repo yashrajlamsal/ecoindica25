@@ -101,6 +101,7 @@ draft: false
 ### References
 
 https://www.bea.gov/news/2025/gross-domestic-product-2nd-quarter-2025-third-estimate-gdp-industry-corporate-profits \
+https://www.bea.gov/sites/default/files/2025-09/gdp2q25-3rd.pdf \
 U.S. Department of Commerce: Bureau of Economic Analysis.\
 Federal Reserve Bank of St. Louis, One Federal Reserve Bank \
 Government of Nepal, National Planning Commission, Central Bureau Of Statistics \
