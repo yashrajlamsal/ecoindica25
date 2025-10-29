@@ -1,5 +1,5 @@
 ---
-title: "CChina GDP Composition 2023 - Pie Chart & Components Breakdown"
+title: "China GDP Composition 2023 - Pie Chart & Components Breakdown"
 date: 2025-10-27T17:08:35+05:45
 draft: false
 tags: ["gdp", "consumption", "investment", "export", "import", "china", "2023", "economic-analysis"]
