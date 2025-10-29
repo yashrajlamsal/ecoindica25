@@ -26,6 +26,10 @@ params:
 
 menu:
   main:
+    - identifier: countries
+      name: By Country
+      url: /countries/
+      weight: 5
     - identifier: categories
       name: categories
       url: /categories/
@@ -39,6 +43,10 @@ menu:
       url: /about/
       weight: 20
 
+taxonomies:
+  category: categories
+  tag: tags
+  country: countries
 
 privacy:
   disqus:

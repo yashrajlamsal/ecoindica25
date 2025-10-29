@@ -2,97 +2,202 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/2023/</loc>
+    <loc>http://localhost:1313/tags/asia-economy/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/2023/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/2024/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/brazil/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/china/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/china/</loc>
+    <loc>http://localhost:1313/countries/brazil/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/brazil-gdp-2024/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/france-gdp-2024/</loc>
+    <loc>http://localhost:1313/tags/brazil-gdp-components/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/india-gdp-2024/</loc>
+    <loc>http://localhost:1313/tags/brazil-gdp-pie-chart/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/japan-gdp-2023/</loc>
+    <loc>http://localhost:1313/tags/brazilian-economy/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/singapore-gdp-2024/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/united-kingdom-gdp-2024/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/consumption/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/economic-analysis/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/economics/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/export/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/france/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gdp/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/germany/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/germany-gdp-2024/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/import/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/india/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/investment/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/japan/</loc>
+    <loc>http://localhost:1313/tags/british-economy/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/china-gdp-2023/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
+    <loc>http://localhost:1313/countries/china/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/china-gdp-components/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/china-gdp-pie-chart/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chinese-economy-breakdown/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/commodity-exports/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/consumption-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/domestic-consumption/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/economic-pie/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/emerging-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/emerging-market/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/european-union/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/export-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/financial-services/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/france/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/france-gdp-2024/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/france-gdp-components/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/france-gdp-pie-chart/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/french-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gdp-breakdown/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gdp-pie-chart/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/german-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/germany/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/germany-gdp-2024/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/germany-gdp-components/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/germany-gdp-pie-chart/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/global-hub/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/government-spending/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/india/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/india-gdp-2024/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/india-gdp-components/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/india-gdp-pie-chart/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/indian-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/japan/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/japan-gdp-2023/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/japan-gdp-components/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/japan-gdp-pie-chart/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/japanese-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/macroeconomic/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mature-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/singapore/</loc>
+    <loc>http://localhost:1313/tags/sector/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sector-analysis/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/service-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/singapore/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/singapore-gdp-2024/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/singapore-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/singapore-gdp-components/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/singapore-gdp-pie-chart/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/united-kingdom/</loc>
+    <loc>http://localhost:1313/tags/technology-exports/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tourism-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/trade-economy/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/uk-gdp-components/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/uk-gdp-pie-chart/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/united-kingdom/</loc>
+    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/united-kingdom-gdp-2024/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/2025/</loc>
@@ -101,10 +206,13 @@
     <loc>http://localhost:1313/tags/breakdown/</loc>
     <lastmod>2025-10-26T10:30:14+05:45</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-26T10:30:14+05:45</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/chart/</loc>
     <lastmod>2025-10-26T10:30:14+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gdp25/</loc>
+    <loc>http://localhost:1313/tags/consumption/</loc>
     <lastmod>2025-10-26T10:30:14+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/development/</loc>
@@ -116,13 +224,28 @@
     <loc>http://localhost:1313/categories/economy/</loc>
     <lastmod>2025-10-26T10:30:14+05:45</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/export/</loc>
+    <lastmod>2025-10-26T10:30:14+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gdp/</loc>
+    <lastmod>2025-10-26T10:30:14+05:45</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/gdp-per-capita/</loc>
     <lastmod>2025-10-26T10:30:14+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/government/</loc>
     <lastmod>2025-10-26T10:30:14+05:45</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/import/</loc>
+    <lastmod>2025-10-26T10:30:14+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/investment/</loc>
+    <lastmod>2025-10-26T10:30:14+05:45</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/latest/</loc>
+    <lastmod>2025-10-26T10:30:14+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/macroeconomics/</loc>
     <lastmod>2025-10-26T10:30:14+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/nepal/</loc>
@@ -146,16 +269,25 @@
     <loc>http://localhost:1313/tags/ranking/</loc>
     <lastmod>2025-10-26T10:30:14+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sector/</loc>
+    <loc>http://localhost:1313/countries/united-states/</loc>
     <lastmod>2025-10-26T10:30:14+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/us/</loc>
     <lastmod>2025-10-26T10:30:14+05:45</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/gdp25/</loc>
+    <lastmod>2025-10-26T10:30:14+05:45</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/2022/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/2024/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/componentofgdp/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/nepal/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/economice/</loc>

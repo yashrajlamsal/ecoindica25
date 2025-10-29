@@ -1,30 +1,51 @@
 ---
-title: "Components of Singapore's Gross Domestic Product (GDP) 2024"
+title: "Singapore GDP Composition 2024 - Pie Chart & Components Breakdown"
 date: 2025-10-27T17:08:35+05:45
 draft: false
-tags: ["gdp", "consumption", "investment", "export", "import", "singapore", "2024", "economic-analysis"]
+tags: ['macroeconomic', 'sector', 'singapore-gdp-pie-chart', 'singapore-gdp-components', 'singapore-economy', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'sector-analysis', 'trade-economy', 'global-hub']
+description: "Singapore's GDP composition 2024 pie chart showing trade-dependent economy breakdown. Singapore showed exceptionally high export levels relative to its GDP size as a global trade and finance hub."
+countries: ["Singapore"]
 ---
 
-### The components of Singapore's Gross Domestic Product (GDP) for the year 2024 
-{{< figure src="/images/24/singapore/pie.svg">}}
+## Singapore GDP Pie Chart 2024
 
-#### Table: Singapore GDP measured by components of demand for the year 2024
-| Component | Amount (trillions of $) | Percent | Pie chart percent |
-|-----------|------------------------|---------|------------------|
-| Consumption | 0.230357 | 42.082993% | 10.300544% |
-| Investment | 0.121521 | 22.200258% | 5.433899% |
-| Government | 0.119859 | 21.896499% | 5.359549% |
-| Exports | 0.978598 | 178.776287% | 43.758603% |
-| Imports | 0.786021 | -143.595141% | 35.147406% |
-| **Total GDP** | **0.547387** | **100.000000%** | **100.000000%** |
+Singapore's GDP composition 2024 pie chart showing trade-dependent economy breakdown. Singapore showed exceptionally high export levels relative to its GDP size as a global trade and finance hub.
 
-Singapore's trade-dependent economy in 2024 showed exceptionally high export levels relative to its GDP size.
+{{< figure src="/images/24/singapore/pie.png" 
+alt="Singapore GDP composition pie chart 2024 showing consumption, investment, government, exports and imports"
+caption="Figure 1: Singapore GDP Composition Breakdown 2024 - Pie Chart Visualization" >}}
 
-#### Key Insights
+### Singapore GDP Components Table 2024
 
-- **Primary Driver**: Exports is the largest component of GDP
-- **Trade Balance**: Trade surplus observed
-- **Investment Level**: 22.2% of GDP allocated to investment
+Detailed breakdown of Singapore's Gross Domestic Product by expenditure components:
 
-*Note: Due to statistical discrepancies in data collection and rounding, the sum of individual components may not exactly equal the total GDP. The data is sourced from World Development Indicators (World Bank) and represents the most recent available figures for 2024.*
+| Component | Amount | Percentage | Pie Chart % |
+|-----------|--------|------------|-------------|
+| Consumption | $230B | 41.8% | 10.6% |
+| Investment | $120B | 21.8% | 5.5% |
+| Government | $60.0B | 10.9% | 2.8% |
+| Exports | $980B | 178.2% | 45.0% |
+| Imports | $790B | -143.6% | 36.2% |
+| **Total GDP** | **$550B** | **100.0%** | **100.0%** |
 
+### Key Economic Insights: Singapore 2024
+
+- **Primary Economic Driver**: Exports is the largest component of GDP at 178.2%
+- **International Trade**: Trade surplus with exports at $980B and imports at $790B
+- **Investment Level**: 21.8% of GDP allocated to capital investment
+- **Economic Scale**: Total GDP of $550B in 2024
+
+### Understanding Singapore's GDP Composition
+
+This singapore GDP pie chart visualization breaks down the four main components of Gross Domestic Product:
+
+1. **Consumption** - Household and consumer spending
+2. **Investment** - Business capital expenditure and investments  
+3. **Government** - Public sector spending and services
+4. **Net Exports** - Exports minus imports of goods and services
+
+### Methodology and Data Sources
+
+The GDP composition data follows the expenditure approach calculation method and is sourced from World Development Indicators (World Bank). Pie chart percentages are normalized to sum to 100% for clear visual representation.
+
+*Note: Due to statistical discrepancies in data collection and rounding, the sum of individual components may not exactly equal the total GDP. Data represents the most recent available figures for 2024.*

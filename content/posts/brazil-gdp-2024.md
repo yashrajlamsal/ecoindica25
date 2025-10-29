@@ -1,30 +1,50 @@
 ---
-title: "Components of Brazil's Gross Domestic Product (GDP) 2024"
+title: "Brazil GDP Composition 2024 - Pie Chart & Components Breakdown"
 date: 2025-10-27T17:08:35+05:45
+tags: ['macroeconomic', 'sector', 'brazil-gdp-pie-chart', 'brazil-gdp-components', 'brazilian-economy', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'sector-analysis', 'emerging-market', 'commodity-exports']
+description: "Brazil's GDP composition 2024 pie chart showing emerging economy breakdown. Brazil showed strong domestic market growth with increasing international trade in agriculture, mining, and services sectors."
+countries: ["Brazil"]
 draft: false
-tags: ["gdp", "consumption", "investment", "export", "import", "brazil", "2024", "economic-analysis"]
 ---
+## Brazil GDP Pie Chart 2024
 
-### The components of Brazil's Gross Domestic Product (GDP) for the year 2024 
-{{< figure src="/images/24/brazil/pie.svg">}}
+Brazil's GDP composition 2024 pie chart showing emerging economy breakdown. Brazil showed strong domestic market growth with increasing international trade in agriculture, mining, and services sectors.
 
+{{< figure src="/images/24/brazil/pie.png" 
+alt="Brazil GDP composition pie chart 2024 showing consumption, investment, government, exports and imports"
+caption="Figure 1: Brazil GDP Composition Breakdown 2024 - Pie Chart Visualization" >}}
 
-#### Table: Brazil GDP measured by components of demand for the year 2024
-| Component | Amount (trillions of $) | Percent | Pie chart percent |
-|-----------|------------------------|---------|------------------|
-| Consumption | 1.800023 | 82.592133% | 54.313351% |
-| Investment | 0.368533 | 16.909728% | 11.119994% |
-| Government | 0.371217 | 17.032906% | 11.200997% |
-| Exports | 0.392614 | 18.014680% | 11.846620% |
-| Imports | 0.381758 | -17.516540% | 11.519039% |
-| **Total GDP** | **2.179412** | **100.000000%** | **100.000000%** |
+### Brazil GDP Components Table 2024
 
-Brazil's emerging economy in 2024 showed strong domestic market growth with increasing international trade.
+Detailed breakdown of Brazil's Gross Domestic Product by expenditure components:
 
-#### Key Insights
+| Component | Amount | Percentage | Pie Chart % |
+|-----------|--------|------------|-------------|
+| Consumption | $1.80T | 82.6% | 53.7% |
+| Investment | $370B | 17.0% | 11.0% |
+| Government | $410B | 18.8% | 12.2% |
+| Exports | $390B | 17.9% | 11.6% |
+| Imports | $380B | -17.4% | 11.3% |
+| **Total GDP** | **$2.18T** | **100.0%** | **100.0%** |
 
-- **Primary Driver**: Consumption is the largest component of GDP
-- **Trade Balance**: Trade surplus observed
-- **Investment Level**: 16.9% of GDP allocated to investment
+### Key Economic Insights: Brazil 2024
 
-*Note: Due to statistical discrepancies in data collection and rounding, the sum of individual components may not exactly equal the total GDP. The data is sourced from World Development Indicators (World Bank) and represents the most recent available figures for 2024.*
+- **Primary Economic Driver**: Consumption is the largest component of GDP at 82.6%
+- **International Trade**: Trade surplus with exports at $390B and imports at $380B
+- **Investment Level**: 17.0% of GDP allocated to capital investment
+- **Economic Scale**: Total GDP of $2.18T in 2024
+
+### Understanding Brazil's GDP Composition
+
+This brazil GDP pie chart visualization breaks down the four main components of Gross Domestic Product:
+
+1. **Consumption** - Household and consumer spending
+2. **Investment** - Business capital expenditure and investments  
+3. **Government** - Public sector spending and services
+4. **Net Exports** - Exports minus imports of goods and services
+
+### Methodology and Data Sources
+
+The GDP composition data follows the expenditure approach calculation method and is sourced from World Development Indicators (World Bank). Pie chart percentages are normalized to sum to 100% for clear visual representation.
+
+*Note: Due to statistical discrepancies in data collection and rounding, the sum of individual components may not exactly equal the total GDP. Data represents the most recent available figures for 2024.*

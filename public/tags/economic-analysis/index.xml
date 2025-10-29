@@ -14,7 +14,10 @@
       
       <guid>http://localhost:1313/posts/brazil-gdp-2024/</guid>
       <description>&lt;h3 id=&#34;the-components-of-brazils-gross-domestic-product-gdp-for-the-year-2024&#34;&gt;The components of Brazil&amp;rsquo;s Gross Domestic Product (GDP) for the year 2024&lt;/h3&gt;
-&lt;p&gt;{&amp;lt; figure src=&amp;quot;/images/24/brazil/pie.svg&amp;quot;&amp;gt;}&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/24/brazil/pie.svg&#34;/&gt; 
+&lt;/figure&gt;
+
 &lt;h4 id=&#34;table-brazil-gdp-measured-by-components-of-demand-for-the-year-2024&#34;&gt;Table: Brazil GDP measured by components of demand for the year 2024&lt;/h4&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -74,7 +77,10 @@
       
       <guid>http://localhost:1313/posts/france-gdp-2024/</guid>
       <description>&lt;h3 id=&#34;the-components-of-frances-gross-domestic-product-gdp-for-the-year-2024&#34;&gt;The components of France&amp;rsquo;s Gross Domestic Product (GDP) for the year 2024&lt;/h3&gt;
-&lt;p&gt;{&amp;lt; figure src=&amp;quot;/images/24/france/pie.svg&amp;quot;&amp;gt;}&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/24/france/pie.svg&#34;/&gt; 
+&lt;/figure&gt;
+
 &lt;h4 id=&#34;table-france-gdp-measured-by-components-of-demand-for-the-year-2024&#34;&gt;Table: France GDP measured by components of demand for the year 2024&lt;/h4&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -128,13 +134,79 @@
     </item>
     
     <item>
+      <title>Components of Germany&#39;s Gross Domestic Product (GDP) 2024</title>
+      <link>http://localhost:1313/posts/germany-gdp-2024/</link>
+      <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
+      
+      <guid>http://localhost:1313/posts/germany-gdp-2024/</guid>
+      <description>&lt;h3 id=&#34;the-components-of-germanys-gross-domestic-product-gdp-for-the-year-2024&#34;&gt;The components of Germany&amp;rsquo;s Gross Domestic Product (GDP) for the year 2024&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/24/germany/pie.svg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;table-germany-gdp-measured-by-components-of-demand-for-the-year-2024&#34;&gt;Table: Germany GDP measured by components of demand for the year 2024&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Component&lt;/th&gt;
+          &lt;th&gt;Amount (trillions of $)&lt;/th&gt;
+          &lt;th&gt;Percent&lt;/th&gt;
+          &lt;th&gt;Pie chart percent&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Consumption&lt;/td&gt;
+          &lt;td&gt;3.499431&lt;/td&gt;
+          &lt;td&gt;75.096231%&lt;/td&gt;
+          &lt;td&gt;38.053109%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Investment&lt;/td&gt;
+          &lt;td&gt;0.980817&lt;/td&gt;
+          &lt;td&gt;21.047904%&lt;/td&gt;
+          &lt;td&gt;10.665491%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Government&lt;/td&gt;
+          &lt;td&gt;0.971924&lt;/td&gt;
+          &lt;td&gt;20.857045%&lt;/td&gt;
+          &lt;td&gt;10.568778%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Exports&lt;/td&gt;
+          &lt;td&gt;1.961843&lt;/td&gt;
+          &lt;td&gt;42.100268%&lt;/td&gt;
+          &lt;td&gt;21.333242%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Imports&lt;/td&gt;
+          &lt;td&gt;1.782162&lt;/td&gt;
+          &lt;td&gt;-38.244403%&lt;/td&gt;
+          &lt;td&gt;19.379380%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Total GDP&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;4.659929&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;100.000000%&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;100.000000%&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Germany&amp;rsquo;s export-oriented economy in 2024 maintained its position as Europe&amp;rsquo;s economic powerhouse.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Components of India&#39;s Gross Domestic Product (GDP) 2024</title>
       <link>http://localhost:1313/posts/india-gdp-2024/</link>
       <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
       
       <guid>http://localhost:1313/posts/india-gdp-2024/</guid>
       <description>&lt;h3 id=&#34;the-components-of-indias-gross-domestic-product-gdp-for-the-year-2024&#34;&gt;The components of India&amp;rsquo;s Gross Domestic Product (GDP) for the year 2024&lt;/h3&gt;
-&lt;p&gt;{&amp;lt; figure src=&amp;quot;/images/24/india/pie.svg&amp;quot;&amp;gt;}&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/24/india/pie.svg&#34;/&gt; 
+&lt;/figure&gt;
+
 &lt;h4 id=&#34;table-india-gdp-measured-by-components-of-demand-for-the-year-2024&#34;&gt;Table: India GDP measured by components of demand for the year 2024&lt;/h4&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -193,18 +265,12 @@
       <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
       
       <guid>http://localhost:1313/posts/japan-gdp-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Components of Singapore&#39;s Gross Domestic Product (GDP) 2024</title>
-      <link>http://localhost:1313/posts/singapore-gdp-2024/</link>
-      <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
-      
-      <guid>http://localhost:1313/posts/singapore-gdp-2024/</guid>
-      <description>&lt;h3 id=&#34;the-components-of-singapores-gross-domestic-product-gdp-for-the-year-2024&#34;&gt;The components of Singapore&amp;rsquo;s Gross Domestic Product (GDP) for the year 2024&lt;/h3&gt;
-&lt;p&gt;{&amp;lt; figure src=&amp;quot;/images/24/singapore/pie.svg&amp;quot;&amp;gt;}&lt;/p&gt;
-&lt;h4 id=&#34;table-singapore-gdp-measured-by-components-of-demand-for-the-year-2024&#34;&gt;Table: Singapore GDP measured by components of demand for the year 2024&lt;/h4&gt;
+      <description>&lt;h3 id=&#34;the-components-of-japans-gross-domestic-product-gdp-for-the-year-2023&#34;&gt;The components of Japan&amp;rsquo;s Gross Domestic Product (GDP) for the year 2023&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/23/japan/pie.svg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;table-japan-gdp-measured-by-components-of-demand-for-the-year-2023&#34;&gt;Table: Japan GDP measured by components of demand for the year 2023&lt;/h4&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -217,223 +283,43 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td&gt;Consumption&lt;/td&gt;
-          &lt;td&gt;0.230357&lt;/td&gt;
-          &lt;td&gt;42.082993%&lt;/td&gt;
-          &lt;td&gt;10.300544%&lt;/td&gt;
+          &lt;td&gt;3.171062&lt;/td&gt;
+          &lt;td&gt;75.265516%&lt;/td&gt;
+          &lt;td&gt;43.604214%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Investment&lt;/td&gt;
-          &lt;td&gt;0.121521&lt;/td&gt;
-          &lt;td&gt;22.200258%&lt;/td&gt;
-          &lt;td&gt;5.433899%&lt;/td&gt;
+          &lt;td&gt;1.103098&lt;/td&gt;
+          &lt;td&gt;26.182164%&lt;/td&gt;
+          &lt;td&gt;15.168337%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Government&lt;/td&gt;
-          &lt;td&gt;0.119859&lt;/td&gt;
-          &lt;td&gt;21.896499%&lt;/td&gt;
-          &lt;td&gt;5.359549%&lt;/td&gt;
+          &lt;td&gt;1.095933&lt;/td&gt;
+          &lt;td&gt;26.012088%&lt;/td&gt;
+          &lt;td&gt;15.069805%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Exports&lt;/td&gt;
-          &lt;td&gt;0.978598&lt;/td&gt;
-          &lt;td&gt;178.776287%&lt;/td&gt;
-          &lt;td&gt;43.758603%&lt;/td&gt;
+          &lt;td&gt;0.920644&lt;/td&gt;
+          &lt;td&gt;21.851591%&lt;/td&gt;
+          &lt;td&gt;12.659469%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Imports&lt;/td&gt;
-          &lt;td&gt;0.786021&lt;/td&gt;
-          &lt;td&gt;-143.595141%&lt;/td&gt;
-          &lt;td&gt;35.147406%&lt;/td&gt;
+          &lt;td&gt;0.981638&lt;/td&gt;
+          &lt;td&gt;-23.299288%&lt;/td&gt;
+          &lt;td&gt;13.498175%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;strong&gt;Total GDP&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;0.547387&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;4.213167&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;&lt;strong&gt;100.000000%&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;&lt;strong&gt;100.000000%&lt;/strong&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Singapore&amp;rsquo;s trade-dependent economy in 2024 showed exceptionally high export levels relative to its GDP size.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Components of United Kingdom&#39;s Gross Domestic Product (GDP) 2024</title>
-      <link>http://localhost:1313/posts/united-kingdom-gdp-2024/</link>
-      <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
-      
-      <guid>http://localhost:1313/posts/united-kingdom-gdp-2024/</guid>
-      <description>&lt;h3 id=&#34;the-components-of-united-kingdoms-gross-domestic-product-gdp-for-the-year-2024&#34;&gt;The components of United Kingdom&amp;rsquo;s Gross Domestic Product (GDP) for the year 2024&lt;/h3&gt;
-&lt;p&gt;{&amp;lt; figure src=&amp;quot;/images/24/united_kingdom/pie.svg&amp;quot;&amp;gt;}&lt;/p&gt;
-&lt;h4 id=&#34;table-united-kingdom-gdp-measured-by-components-of-demand-for-the-year-2024&#34;&gt;Table: United Kingdom GDP measured by components of demand for the year 2024&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Component&lt;/th&gt;
-          &lt;th&gt;Amount (trillions of $)&lt;/th&gt;
-          &lt;th&gt;Percent&lt;/th&gt;
-          &lt;th&gt;Pie chart percent&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Consumption&lt;/td&gt;
-          &lt;td&gt;3.028323&lt;/td&gt;
-          &lt;td&gt;83.108142%&lt;/td&gt;
-          &lt;td&gt;45.963211%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Investment&lt;/td&gt;
-          &lt;td&gt;0.652110&lt;/td&gt;
-          &lt;td&gt;17.896246%&lt;/td&gt;
-          &lt;td&gt;9.897573%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Government&lt;/td&gt;
-          &lt;td&gt;0.634122&lt;/td&gt;
-          &lt;td&gt;17.402593%&lt;/td&gt;
-          &lt;td&gt;9.624557%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Exports&lt;/td&gt;
-          &lt;td&gt;1.116388&lt;/td&gt;
-          &lt;td&gt;30.637719%&lt;/td&gt;
-          &lt;td&gt;16.944284%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Imports&lt;/td&gt;
-          &lt;td&gt;1.157638&lt;/td&gt;
-          &lt;td&gt;-31.769782%&lt;/td&gt;
-          &lt;td&gt;17.570375%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Total GDP&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;3.643834&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;100.000000%&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;100.000000%&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;The UK economy in 2024 was characterized by strong service sector consumption and significant international trade.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Germany Gdp 2024</title>
-      <link>http://localhost:1313/posts/germany-gdp-2024/</link>
-      <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
-      
-      <guid>http://localhost:1313/posts/germany-gdp-2024/</guid>
-      <description>&lt;h3 id=&#34;the-components-of-germanys-gross-domestic-product-gdp-for-the-year-2024&#34;&gt;The components of Germany&amp;rsquo;s Gross Domestic Product (GDP) for the year 2024&lt;/h3&gt;
-&lt;p&gt;{&amp;lt; figure src=&amp;quot;/images/24/germany/pie.svg&amp;quot;&amp;gt;}&lt;/p&gt;
-&lt;h4 id=&#34;table-germany-gdp-measured-by-components-of-demand-for-the-year-2024&#34;&gt;Table: Germany GDP measured by components of demand for the year 2024&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Component&lt;/th&gt;
-          &lt;th&gt;Amount (trillions of $)&lt;/th&gt;
-          &lt;th&gt;Percent&lt;/th&gt;
-          &lt;th&gt;Pie chart percent&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Consumption&lt;/td&gt;
-          &lt;td&gt;3.499431&lt;/td&gt;
-          &lt;td&gt;75.096231%&lt;/td&gt;
-          &lt;td&gt;38.053109%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Investment&lt;/td&gt;
-          &lt;td&gt;0.980817&lt;/td&gt;
-          &lt;td&gt;21.047904%&lt;/td&gt;
-          &lt;td&gt;10.665491%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Government&lt;/td&gt;
-          &lt;td&gt;0.971924&lt;/td&gt;
-          &lt;td&gt;20.857045%&lt;/td&gt;
-          &lt;td&gt;10.568778%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Exports&lt;/td&gt;
-          &lt;td&gt;1.961843&lt;/td&gt;
-          &lt;td&gt;42.100268%&lt;/td&gt;
-          &lt;td&gt;21.333242%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Imports&lt;/td&gt;
-          &lt;td&gt;1.782162&lt;/td&gt;
-          &lt;td&gt;-38.244403%&lt;/td&gt;
-          &lt;td&gt;19.379380%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Total GDP&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;4.659929&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;100.000000%&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;100.000000%&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Germany&amp;rsquo;s export-oriented economy in 2024 maintained its position as Europe&amp;rsquo;s economic powerhouse.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>omponents of China&#39;s Gross Domestic Product (GDP) 2023</title>
-      <link>http://localhost:1313/posts/china-gdp-2023/</link>
-      <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
-      
-      <guid>http://localhost:1313/posts/china-gdp-2023/</guid>
-      <description>&lt;h3 id=&#34;the-components-of-chinas-gross-domestic-product-gdp-for-the-year-2023&#34;&gt;The components of China&amp;rsquo;s Gross Domestic Product (GDP) for the year 2023&lt;/h3&gt;
-&lt;p&gt;{&amp;lt; figure src=&amp;quot;/images/23/china/pie.svg&amp;quot;&amp;gt;}&lt;/p&gt;
-&lt;h4 id=&#34;table-china-gdp-measured-by-components-of-demand-for-the-year-2023&#34;&gt;Table: China GDP measured by components of demand for the year 2023&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Component&lt;/th&gt;
-          &lt;th&gt;Amount (trillions of $)&lt;/th&gt;
-          &lt;th&gt;Percent&lt;/th&gt;
-          &lt;th&gt;Pie chart percent&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Consumption&lt;/td&gt;
-          &lt;td&gt;10.369777&lt;/td&gt;
-          &lt;td&gt;56.757387%&lt;/td&gt;
-          &lt;td&gt;32.535656%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Investment&lt;/td&gt;
-          &lt;td&gt;7.514545&lt;/td&gt;
-          &lt;td&gt;41.129710%&lt;/td&gt;
-          &lt;td&gt;23.577233%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Government&lt;/td&gt;
-          &lt;td&gt;7.391170&lt;/td&gt;
-          &lt;td&gt;40.454435%&lt;/td&gt;
-          &lt;td&gt;23.190137%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Exports&lt;/td&gt;
-          &lt;td&gt;3.490090&lt;/td&gt;
-          &lt;td&gt;19.102472%&lt;/td&gt;
-          &lt;td&gt;10.950318%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Imports&lt;/td&gt;
-          &lt;td&gt;3.106458&lt;/td&gt;
-          &lt;td&gt;-17.002721%&lt;/td&gt;
-          &lt;td&gt;9.746655%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Total GDP&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;18.270357&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;100.000000%&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;100.000000%&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;China&amp;rsquo;s economy demonstrated robust growth in 2023, with consumption driving the majority of economic activity.&lt;/p&gt;</description>
+&lt;p&gt;Japan&amp;rsquo;s mature economy in 2023 continued to be driven by domestic consumption and technological exports.&lt;/p&gt;</description>
     </item>
     
   </channel>

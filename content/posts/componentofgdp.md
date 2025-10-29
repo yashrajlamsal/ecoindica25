@@ -3,6 +3,7 @@ title: "Components of Gross Domestic Product (GDP) 2024"
 date: 2025-04-07
 draft: false
 tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2022", "2024", "sector", "breakdown", "latest", "pie", "chart", "pie chart"]
+countries: ["United States", "China", "India", "Nepal"]
 aliases:
 - /post/first-post
 - /posts/componentofgdp
