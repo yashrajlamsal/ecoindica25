@@ -422,29 +422,11 @@
     </item>
     
     <item>
-      <title>2025</title>
-      <link>http://localhost:1313/tags/2025/</link>
+      <title>Components-of-Us-Gdp</title>
+      <link>http://localhost:1313/tags/components-of-us-gdp/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
       
-      <guid>http://localhost:1313/tags/2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Breakdown</title>
-      <link>http://localhost:1313/tags/breakdown/</link>
-      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
-      
-      <guid>http://localhost:1313/tags/breakdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chart</title>
-      <link>http://localhost:1313/tags/chart/</link>
-      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
-      
-      <guid>http://localhost:1313/tags/chart/</guid>
+      <guid>http://localhost:1313/tags/components-of-us-gdp/</guid>
       <description></description>
     </item>
     
@@ -476,11 +458,20 @@
     </item>
     
     <item>
-      <title>Export</title>
-      <link>http://localhost:1313/tags/export/</link>
+      <title>Economic-Indicators</title>
+      <link>http://localhost:1313/tags/economic-indicators/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
       
-      <guid>http://localhost:1313/tags/export/</guid>
+      <guid>http://localhost:1313/tags/economic-indicators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exports</title>
+      <link>http://localhost:1313/tags/exports/</link>
+      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
+      
+      <guid>http://localhost:1313/tags/exports/</guid>
       <description></description>
     </item>
     
@@ -503,20 +494,29 @@
     </item>
     
     <item>
-      <title>Government</title>
-      <link>http://localhost:1313/tags/government/</link>
+      <title>Gdp-Breakdown-Us</title>
+      <link>http://localhost:1313/tags/gdp-breakdown-us/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
       
-      <guid>http://localhost:1313/tags/government/</guid>
+      <guid>http://localhost:1313/tags/gdp-breakdown-us/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Import</title>
-      <link>http://localhost:1313/tags/import/</link>
+      <title>Gdp-Composition</title>
+      <link>http://localhost:1313/tags/gdp-composition/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
       
-      <guid>http://localhost:1313/tags/import/</guid>
+      <guid>http://localhost:1313/tags/gdp-composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imports</title>
+      <link>http://localhost:1313/tags/imports/</link>
+      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
+      
+      <guid>http://localhost:1313/tags/imports/</guid>
       <description></description>
     </item>
     
@@ -530,47 +530,11 @@
     </item>
     
     <item>
-      <title>Latest</title>
-      <link>http://localhost:1313/tags/latest/</link>
-      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
-      
-      <guid>http://localhost:1313/tags/latest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Macroeconomics</title>
-      <link>http://localhost:1313/tags/macroeconomics/</link>
-      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
-      
-      <guid>http://localhost:1313/tags/macroeconomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nepal Economy</title>
       <link>http://localhost:1313/tags/nepal-economy/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
       
       <guid>http://localhost:1313/tags/nepal-economy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pie</title>
-      <link>http://localhost:1313/tags/pie/</link>
-      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
-      
-      <guid>http://localhost:1313/tags/pie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pie-Chart</title>
-      <link>http://localhost:1313/tags/pie-chart/</link>
-      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
-      
-      <guid>http://localhost:1313/tags/pie-chart/</guid>
       <description></description>
     </item>
     
@@ -593,11 +557,47 @@
     </item>
     
     <item>
-      <title>US</title>
-      <link>http://localhost:1313/tags/us/</link>
+      <title>United-States-Economy</title>
+      <link>http://localhost:1313/tags/united-states-economy/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
       
-      <guid>http://localhost:1313/tags/us/</guid>
+      <guid>http://localhost:1313/tags/united-states-economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Us-Gdp-by-Component</title>
+      <link>http://localhost:1313/tags/us-gdp-by-component/</link>
+      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
+      
+      <guid>http://localhost:1313/tags/us-gdp-by-component/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Us-Gdp-by-Sector</title>
+      <link>http://localhost:1313/tags/us-gdp-by-sector/</link>
+      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
+      
+      <guid>http://localhost:1313/tags/us-gdp-by-sector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Us-Gdp-Components</title>
+      <link>http://localhost:1313/tags/us-gdp-components/</link>
+      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
+      
+      <guid>http://localhost:1313/tags/us-gdp-components/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Us-Gdp-Pie-Chart-2024</title>
+      <link>http://localhost:1313/tags/us-gdp-pie-chart-2024/</link>
+      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
+      
+      <guid>http://localhost:1313/tags/us-gdp-pie-chart-2024/</guid>
       <description></description>
     </item>
     
@@ -616,6 +616,78 @@
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breakdown</title>
+      <link>http://localhost:1313/tags/breakdown/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/breakdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chart</title>
+      <link>http://localhost:1313/tags/chart/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/chart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Export</title>
+      <link>http://localhost:1313/tags/export/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/export/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Import</title>
+      <link>http://localhost:1313/tags/import/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/import/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latest</title>
+      <link>http://localhost:1313/tags/latest/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/latest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pie</title>
+      <link>http://localhost:1313/tags/pie/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pie Chart</title>
+      <link>http://localhost:1313/tags/pie-chart/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pie-chart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>US</title>
+      <link>http://localhost:1313/tags/us/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/us/</guid>
       <description></description>
     </item>
     
