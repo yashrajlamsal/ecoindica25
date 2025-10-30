@@ -6,6 +6,7 @@ tags: ["gdp", "consumption", "investment", "export", "import", "china", "2023", 
 tags: ['macroeconomic', 'sector', 'china-gdp-pie-chart', 'china-gdp-components', 'chinese-economy-breakdown', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'sector-analysis', 'asia-economy', 'consumption-economy']
 description: "China's GDP composition 2023 pie chart showing consumption, investment, government spending, exports and imports breakdown. China's economy demonstrated robust growth with consumption driving the majority of economic activity."
 countries: ["China"]
+weight: 2
 ---
 ## China GDP Pie Chart 2023
 
