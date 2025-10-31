@@ -3,13 +3,13 @@ title: "Canada GDP Composition 2023 - Pie Chart & Components Breakdown"
 date: 2025-10-31T18:15:56+05:45
 draft: false
 tags: ['macroeconomic', 'sector', 'canada-gdp-pie-chart', 'canada-gdp-components', 'canadian-economy', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'resource-exports', 'services-economy', 'north-american-trade']
-description: "Canada's GDP composition 2023 pie chart showing mixed economy breakdown. Canada maintained economic strength through services sector dominance and natural resource exports, with close integration to the United States economy[citation:5][citation:7]."
+description: "Canada's GDP composition 2023 pie chart showing mixed economy breakdown. Canada maintained economic strength through services sector dominance and natural resource exports, with close integration to the United States economy."
 countries: ["Canada"]
 ---
 
 ## Canada GDP Pie Chart 2023
 
-Canada's GDP composition 2023 pie chart showing mixed economy breakdown. Canada maintained economic strength through services sector dominance and natural resource exports, with close integration to the United States economy[citation:5][citation:7].
+Canada's GDP composition 2023 pie chart showing mixed economy breakdown. Canada maintained economic strength through services sector dominance and natural resource exports, with close integration to the United States economy.
 
 {{< figure src="/images/23/canada/pie.png" 
 alt="Canada GDP composition pie chart 2023 showing consumption, investment, government, exports and imports"
