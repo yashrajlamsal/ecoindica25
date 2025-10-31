@@ -3,6 +3,8 @@ title: "Growth and Recession"
 date: 2023-04-14T10:25:51+05:45
 draft: false
 tags: ["gdp", "recession", "us"]
+countries: ["United States"]
+
 aliases:
 - /post/article3
 - /posts/growthandrecession

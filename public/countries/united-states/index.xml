@@ -25,5 +25,39 @@
       <description>An analysis of the components of Gross Domestic Product (GDP) for the United States, China, India, and Nepal for the year 2024, including pie charts and detailed breakdowns.</description>
     </item>
     
+    <item>
+      <title>Inflation</title>
+      <link>http://localhost:1313/posts/inflation/</link>
+      <pubDate>Sat, 15 Apr 2023 16:53:59 +0545</pubDate>
+      
+      <guid>http://localhost:1313/posts/inflation/</guid>
+      <description>&lt;h3 id=&#34;the-gdp-deflator-and-the-cpi-as-a-measures-of-inflation&#34;&gt;The GDP Deflator and the CPI as a measures of Inflation&lt;/h3&gt;
+&lt;p&gt;Inflation refers to the pace at which prices increase over time. The graph displays the two types of inflation indicators used: the GDP Deflator and the Consumer Price Index (CPI), from 1965 to 2022. The two measures of inflation mostly move in tandem with occasional deviations. If you want to learn more about these indicators, the book &amp;ldquo;Principles of Macroeconomics&amp;rdquo; by Gregory Mankiw is a useful resource.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>International Trade</title>
+      <link>http://localhost:1313/posts/internationaltrade/</link>
+      <pubDate>Fri, 14 Apr 2023 10:26:20 +0545</pubDate>
+      
+      <guid>http://localhost:1313/posts/internationaltrade/</guid>
+      <description>&lt;h1 id=&#34;us-international-trade&#34;&gt;US International Trade&lt;/h1&gt;
+&lt;p&gt;This chart displays a time series of International Trade, depicting the flow of US exports and imports from 1929 to 2020. The graph exhibits two lines; the blue line shows the amount of goods and services exported from the United States to the rest of the world, and the other line represents the amount imported into the United States from the rest of the world. The two lines moved in tandem until the early 1980s, after which they started to diverge. The graph indicates that since then, the United States has been importing more than it has been exporting, resulting in a negative net export or trade deficit. The chart also reveals two significant fluctuations, one during the 2008 financial crisis and the other during the COVID-19 pandemic.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Growth and Recession</title>
+      <link>http://localhost:1313/posts/growthandrecession/</link>
+      <pubDate>Fri, 14 Apr 2023 10:25:51 +0545</pubDate>
+      
+      <guid>http://localhost:1313/posts/growthandrecession/</guid>
+      <description>&lt;h4 id=&#34;us-historical-growth-and-recession&#34;&gt;US Historical Growth and Recession&lt;/h4&gt;
+&lt;p&gt;This chart illustrates the US real Gross Domestic Product (GDP) on a quarterly basis from 1947 to 2020. The graph includes shaded vertical bars that represent periods of recession or economic contraction. A recession is defined as negative economic growth for two consecutive quarters, and this definition is also applied to this graph. The most recent instances of a recession were observed during the 2008 financial crisis and the COVID-19 pandemic.
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/us/cgdp.svg&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

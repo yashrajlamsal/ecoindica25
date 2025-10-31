@@ -6,7 +6,25 @@
     <description>Recent content in Countries on Economic Indicators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Oct 2025 17:08:35 +0545</lastBuildDate><atom:link href="http://localhost:1313/countries/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Oct 2025 18:15:56 +0545</lastBuildDate><atom:link href="http://localhost:1313/countries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canada</title>
+      <link>http://localhost:1313/countries/canada/</link>
+      <pubDate>Fri, 31 Oct 2025 18:15:56 +0545</pubDate>
+      
+      <guid>http://localhost:1313/countries/canada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia</title>
+      <link>http://localhost:1313/countries/australia/</link>
+      <pubDate>Fri, 31 Oct 2025 18:15:30 +0545</pubDate>
+      
+      <guid>http://localhost:1313/countries/australia/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Brazil</title>
       <link>http://localhost:1313/countries/brazil/</link>

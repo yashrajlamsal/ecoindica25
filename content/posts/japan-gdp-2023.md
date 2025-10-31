@@ -21,18 +21,18 @@ Detailed breakdown of Japan's Gross Domestic Product by expenditure components:
 
 | Component | Amount | Percentage | Pie Chart % |
 |-----------|--------|------------|-------------|
-| Consumption | $3.17T | 75.3% | 45.0% |
-| Investment | $1.10T | 26.1% | 15.6% |
-| Government | $870B | 20.7% | 12.4% |
-| Exports | $920B | 21.9% | 13.1% |
-| Imports | $980B | -23.3% | 13.9% |
+| Consumption | $2.08T | 49.2% | 33.6% |
+| Investment | $1.10T | 26.2% | 17.9% |
+| Government | $1.10T | 26.0% | 17.7% |
+| Exports | $920B | 21.9% | 14.9% |
+| Imports | $980B | -23.3% | 15.9% |
 | **Total GDP** | **$4.21T** | **100.0%** | **100.0%** |
 
 ### Key Economic Insights: Japan 2023
 
-- **Primary Economic Driver**: Consumption is the largest component of GDP at 75.3%
+- **Primary Economic Driver**: Consumption is the largest component of GDP at 49.2%
 - **International Trade**: Trade deficit with exports at $920B and imports at $980B
-- **Investment Level**: 26.1% of GDP allocated to capital investment
+- **Investment Level**: 26.2% of GDP allocated to capital investment
 - **Economic Scale**: Total GDP of $4.21T in 2023
 
 ### Understanding Japan's GDP Composition

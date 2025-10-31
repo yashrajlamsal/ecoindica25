@@ -22,19 +22,20 @@ Detailed breakdown of India's Gross Domestic Product by expenditure components:
 
 | Component | Amount | Percentage | Pie Chart % |
 |-----------|--------|------------|-------------|
-| Consumption | $2.80T | 71.6% | 44.9% |
-| Investment | $1.28T | 32.7% | 20.5% |
-| Government | $400B | 10.2% | 6.4% |
-| Exports | $830B | 21.2% | 13.3% |
-| Imports | $920B | -23.5% | 14.8% |
-| **Total GDP** | **$3.91T** | **100.0%** | **100.0%** |
+| Consumption | $2.41T | 60.3% | 41.3% |
+| Investment | $1.28T | 32.0% | 21.9% |
+| Government | $400B | 9.9% | 6.8% |
+| Exports | $830B | 20.8% | 14.2% |
+| Imports | $920B | -23.1% | 15.8% |
+| **Total GDP** | **$3.99T** | **100.0%** | **100.0%** |
 
+Note: $3.99T vs $3.91T (actual) due to data source variations.
 ### Key Economic Insights: India 2024
 
-- **Primary Economic Driver**: Consumption is the largest component of GDP at 71.6%
+- **Primary Economic Driver**: Consumption is the largest component of GDP at 60.3%
 - **International Trade**: Trade deficit with exports at $830B and imports at $920B
-- **Investment Level**: 32.7% of GDP allocated to capital investment
-- **Economic Scale**: Total GDP of $3.91T in 2024
+- **Investment Level**: 32.0% of GDP allocated to capital investment
+- **Economic Scale**: Total GDP of $3.99T in 2024
 
 ### Understanding India's GDP Composition
 

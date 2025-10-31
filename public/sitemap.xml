@@ -14,6 +14,81 @@
     <loc>http://localhost:1313/posts/componentofgdp/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/countries/canada/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/canada-gdp-2023/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/canada-gdp-components/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/canada-gdp-pie-chart/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/canadian-economy/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/economic-pie/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gdp-breakdown/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gdp-pie-chart/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/macroeconomic/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/north-american-trade/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/resource-exports/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sector/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/services-economy/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-31T18:15:56+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/australia/</loc>
+    <lastmod>2025-10-31T18:15:30+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/australia-gdp-2024/</loc>
+    <lastmod>2025-10-31T18:15:30+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/australia-gdp-components/</loc>
+    <lastmod>2025-10-31T18:15:30+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/australia-gdp-pie-chart/</loc>
+    <lastmod>2025-10-31T18:15:30+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/australian-economy/</loc>
+    <lastmod>2025-10-31T18:15:30+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mining-exports/</loc>
+    <lastmod>2025-10-31T18:15:30+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/resource-economy/</loc>
+    <lastmod>2025-10-31T18:15:30+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/services-sector/</loc>
+    <lastmod>2025-10-31T18:15:30+05:45</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/asia-economy/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
@@ -53,16 +128,7 @@
     <loc>http://localhost:1313/tags/consumption-economy/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/domestic-consumption/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/economic-pie/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/emerging-economy/</loc>
@@ -93,12 +159,6 @@
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/french-economy/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gdp-breakdown/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gdp-pie-chart/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/german-economy/</loc>
@@ -149,16 +209,7 @@
     <loc>http://localhost:1313/tags/japanese-economy/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/macroeconomic/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/mature-economy/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sector/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sector-analysis/</loc>
@@ -180,9 +231,6 @@
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/singapore-gdp-pie-chart/</loc>
-    <lastmod>2025-10-27T17:08:35+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-27T17:08:35+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/technology-exports/</loc>

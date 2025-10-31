@@ -21,19 +21,19 @@ Detailed breakdown of Singapore's Gross Domestic Product by expenditure componen
 
 | Component | Amount | Percentage | Pie Chart % |
 |-----------|--------|------------|-------------|
-| Consumption | $230B | 41.8% | 10.6% |
-| Investment | $120B | 21.8% | 5.5% |
-| Government | $60.0B | 10.9% | 2.8% |
-| Exports | $980B | 178.2% | 45.0% |
-| Imports | $790B | -143.6% | 36.2% |
-| **Total GDP** | **$550B** | **100.0%** | **100.0%** |
+| Consumption | $170B | 31.7% | 8.1% |
+| Investment | $120B | 22.3% | 5.7% |
+| Government | $60.0B | 10.7% | 2.7% |
+| Exports | $980B | 179.7% | 46.2% |
+| Imports | $790B | -144.4% | 37.1% |
+| **Total GDP** | **$540B** | **100.0%** | **100.0%** |
 
 ### Key Economic Insights: Singapore 2024
 
-- **Primary Economic Driver**: Exports is the largest component of GDP at 178.2%
+- **Primary Economic Driver**: Exports is the largest component of GDP at 179.7%
 - **International Trade**: Trade surplus with exports at $980B and imports at $790B
-- **Investment Level**: 21.8% of GDP allocated to capital investment
-- **Economic Scale**: Total GDP of $550B in 2024
+- **Investment Level**: 22.3% of GDP allocated to capital investment
+- **Economic Scale**: Total GDP of $540B in 2024
 
 ### Understanding Singapore's GDP Composition
 
@@ -49,3 +49,4 @@ This singapore GDP pie chart visualization breaks down the four main components 
 The GDP composition data follows the expenditure approach calculation method and is sourced from World Development Indicators (World Bank). Pie chart percentages are normalized to sum to 100% for clear visual representation.
 
 *Note: Due to statistical discrepancies in data collection and rounding, the sum of individual components may not exactly equal the total GDP. Data represents the most recent available figures for 2024.*
+
