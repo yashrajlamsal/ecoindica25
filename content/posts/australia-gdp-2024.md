@@ -3,14 +3,14 @@ title: "Australia GDP Composition 2024 - Pie Chart & Components Breakdown"
 date: 2025-10-31T18:15:30+05:45
 draft: false
 tags: ['macroeconomic', 'sector', 'australia-gdp-pie-chart', 'australia-gdp-components', 'australian-economy', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'resource-economy', 'mining-exports', 'services-sector']
-description: "Australia's GDP composition 2024 pie chart showing resource-driven economy breakdown. Australia's economy demonstrated resilience with mining exports and services sector dominance, while maintaining strong ties to Asian markets[citation:2][citation:6][citation:8]."
+description: "Australia's GDP composition 2024 pie chart showing resource-driven economy breakdown. Australia's economy demonstrated resilience with mining exports and services sector dominance, while maintaining strong ties to Asian markets."
 
 countries: ["Australia"]
 ---
 
 ## Australia GDP Pie Chart 2024
 
-Australia's GDP composition 2024 pie chart showing resource-driven economy breakdown. Australia's economy demonstrated resilience with mining exports and services sector dominance, while maintaining strong ties to Asian markets[citation:2][citation:6][citation:8].
+Australia's GDP composition 2024 pie chart showing resource-driven economy breakdown. Australia's economy demonstrated resilience with mining exports and services sector dominance, while maintaining strong ties to Asian markets.
 
 {{< figure src="/images/24/australia/pie.png" 
 alt="Australia GDP composition pie chart 2024 showing consumption, investment, government, exports and imports"
