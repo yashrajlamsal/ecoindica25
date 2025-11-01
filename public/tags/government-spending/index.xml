@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Government-Spending on Economic Indicators</title>
-    <link>https://ecoindica.com/tags/government-spending/</link>
+    <link>http://localhost:1313/tags/government-spending/</link>
     <description>Recent content in Government-Spending on Economic Indicators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Oct 2025 17:08:35 +0545</lastBuildDate><atom:link href="https://ecoindica.com/tags/government-spending/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Oct 2025 17:08:35 +0545</lastBuildDate><atom:link href="http://localhost:1313/tags/government-spending/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>USA GDP Composition 2024-2025: Pie Chart, Sector Breakdown &amp; Economic Analysis</title>
-      <link>https://ecoindica.com/posts/usa-gdp-composition-2024-2025-pie-chart-sector-breakdown-economic-analysis/</link>
+      <link>http://localhost:1313/posts/usa-gdp-composition-2024-2025-pie-chart-sector-breakdown-economic-analysis/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
       
-      <guid>https://ecoindica.com/posts/usa-gdp-composition-2024-2025-pie-chart-sector-breakdown-economic-analysis/</guid>
+      <guid>http://localhost:1313/posts/usa-gdp-composition-2024-2025-pie-chart-sector-breakdown-economic-analysis/</guid>
       <description>Comprehensive USA GDP composition analysis for 2024-2025 with interactive pie charts. Explore US GDP by sector breakdown, components including consumption (68.2%), investment (17.6%), government spending (17.2%), exports and imports. Latest economic data and visualizations.</description>
     </item>
     
     <item>
       <title>France GDP Composition 2023 - Pie Chart &amp; Components Breakdown</title>
-      <link>https://ecoindica.com/posts/france-gdp-composition-2023-pie-chart-components-breakdown/</link>
+      <link>http://localhost:1313/posts/france-gdp-composition-2023-pie-chart-components-breakdown/</link>
       <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
       
-      <guid>https://ecoindica.com/posts/france-gdp-composition-2023-pie-chart-components-breakdown/</guid>
+      <guid>http://localhost:1313/posts/france-gdp-composition-2023-pie-chart-components-breakdown/</guid>
       <description>France&amp;#39;s GDP composition 2023 pie chart showing diversified economy breakdown. France balanced strong domestic consumption with significant government spending across tourism, aerospace, and luxury goods sectors.</description>
     </item>
     

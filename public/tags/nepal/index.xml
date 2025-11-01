@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nepal on Economic Indicators</title>
-    <link>https://ecoindica.com/tags/nepal/</link>
+    <link>http://localhost:1313/tags/nepal/</link>
     <description>Recent content in Nepal on Economic Indicators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2023 10:26:20 +0545</lastBuildDate><atom:link href="https://ecoindica.com/tags/nepal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 10:26:20 +0545</lastBuildDate><atom:link href="http://localhost:1313/tags/nepal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>International Trade</title>
-      <link>https://ecoindica.com/posts/international-trade/</link>
+      <link>http://localhost:1313/posts/international-trade/</link>
       <pubDate>Fri, 14 Apr 2023 10:26:20 +0545</pubDate>
       
-      <guid>https://ecoindica.com/posts/international-trade/</guid>
+      <guid>http://localhost:1313/posts/international-trade/</guid>
       <description>&lt;h1 id=&#34;us-international-trade&#34;&gt;US International Trade&lt;/h1&gt;
 &lt;p&gt;This chart displays a time series of International Trade, depicting the flow of US exports and imports from 1929 to 2020. The graph exhibits two lines; the blue line shows the amount of goods and services exported from the United States to the rest of the world, and the other line represents the amount imported into the United States from the rest of the world. The two lines moved in tandem until the early 1980s, after which they started to diverge. The graph indicates that since then, the United States has been importing more than it has been exporting, resulting in a negative net export or trade deficit. The chart also reveals two significant fluctuations, one during the 2008 financial crisis and the other during the COVID-19 pandemic.&lt;/p&gt;</description>
     </item>

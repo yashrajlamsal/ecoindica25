@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>France-Gdp-Pie-Chart on Economic Indicators</title>
-    <link>https://ecoindica.com/tags/france-gdp-pie-chart/</link>
+    <link>http://localhost:1313/tags/france-gdp-pie-chart/</link>
     <description>Recent content in France-Gdp-Pie-Chart on Economic Indicators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Oct 2025 17:08:35 +0545</lastBuildDate><atom:link href="https://ecoindica.com/tags/france-gdp-pie-chart/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Oct 2025 17:08:35 +0545</lastBuildDate><atom:link href="http://localhost:1313/tags/france-gdp-pie-chart/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>France GDP Composition 2023 - Pie Chart &amp; Components Breakdown</title>
-      <link>https://ecoindica.com/posts/france-gdp-composition-2023-pie-chart-components-breakdown/</link>
+      <link>http://localhost:1313/posts/france-gdp-composition-2023-pie-chart-components-breakdown/</link>
       <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
       
-      <guid>https://ecoindica.com/posts/france-gdp-composition-2023-pie-chart-components-breakdown/</guid>
+      <guid>http://localhost:1313/posts/france-gdp-composition-2023-pie-chart-components-breakdown/</guid>
       <description>France&amp;#39;s GDP composition 2023 pie chart showing diversified economy breakdown. France balanced strong domestic consumption with significant government spending across tourism, aerospace, and luxury goods sectors.</description>
     </item>
     

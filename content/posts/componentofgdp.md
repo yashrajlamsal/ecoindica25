@@ -7,7 +7,9 @@ tags: ["gdp", "consumption", "investment", "export", "import", "us", "2022", "20
 countries: ["United States", "China", "India", "Nepal"]
 weight: 3
 description: "An analysis of the components of Gross Domestic Product (GDP) for the United States, China, India, and Nepal for the year 2024, including pie charts and detailed breakdowns."
-aliases: ["/post/first-post/"]
+aliases:
+- /post/first-post
+- /posts/componentofgdp
 ---
 
 
