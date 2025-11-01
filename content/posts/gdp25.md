@@ -13,7 +13,7 @@ description: "Comprehensive USA GDP composition analysis for 2024-2025 with inte
 The United States maintains its position as the world's largest economy with a GDP of **$30.49 trillion** in Q2 2025. This comprehensive analysis breaks down the US GDP composition through detailed pie charts, sector analysis, and component breakdowns to understand the driving forces behind America's economic engine.
 
 ### Main GDP Composition Pie Chart
-{{< figure src="/images/25/us/pie.png" alt="USA GDP Composition Pie Chart 2025 showing consumption, investment, government spending, exports and imports" caption="Figure 1: US GDP Composition Q2 2025 - Consumption drives 68.2% of the economy" >}}
+{{< figure src="/images/25/us/pie_l.png" alt="USA GDP Composition Pie Chart 2025 showing consumption, investment, government spending, exports and imports" caption="Figure 1: US GDP Composition Q2 2025 - Consumption drives 68.2% of the economy" >}}
 
 #### Table: US GDP Components Q2 2025
 | Component | Amount (Billions $) | Percent | Pie Chart Percent |

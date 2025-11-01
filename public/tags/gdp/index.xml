@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GDP on Economic Indicators</title>
-    <link>http://localhost:1313/tags/gdp/</link>
+    <link>https://ecoindica.com/tags/gdp/</link>
     <description>Recent content in GDP on Economic Indicators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Oct 2025 10:30:14 +0545</lastBuildDate><atom:link href="http://localhost:1313/tags/gdp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 10:30:14 +0545</lastBuildDate><atom:link href="https://ecoindica.com/tags/gdp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Components of Gross Domestic Product (GDP) 2024</title>
-      <link>http://localhost:1313/posts/componentofgdp/</link>
+      <link>https://ecoindica.com/posts/componentofgdp/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/componentofgdp/</guid>
+      <guid>https://ecoindica.com/posts/componentofgdp/</guid>
       <description>An analysis of the components of Gross Domestic Product (GDP) for the United States, China, India, and Nepal for the year 2024, including pie charts and detailed breakdowns.</description>
     </item>
     
     <item>
       <title>Nepal&#39;s GDP Per Capita Journey: From 3rd Poorest to 28th (from 2031 to 2080 BS)</title>
-      <link>http://localhost:1313/posts/journeynp/</link>
+      <link>https://ecoindica.com/posts/journeynp/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
       
-      <guid>http://localhost:1313/posts/journeynp/</guid>
+      <guid>https://ecoindica.com/posts/journeynp/</guid>
       <description>&lt;h3 id=&#34;nepals-gdp-per-capita-journey-from-3rd-poorest-to-28th-from-2031-to-2080-bs&#34;&gt;Nepal&amp;rsquo;s GDP Per Capita Journey: From 3rd Poorest to 28th (from 2031 to 2080 BS)&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/25/np/nepal_gdp_ranking.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://ecoindica.com/images/25/np/nepal_gdp_ranking.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Nepal’s economic journey, as measured by GDP per capita rankings, reflects a story of resilience and gradual progress amidst significant political changes. From the Nepali year 2031 BS (1974 CE) to 2080 BS (2023 CE), Nepal climbed from being the &lt;em&gt;world’s third poorest country&lt;/em&gt; to the &lt;em&gt;30th poorest&lt;/em&gt; by 2077 BS (2020 CE) and further to the &lt;em&gt;28th poorest&lt;/em&gt; by 2080 BS (2023 CE). This trajectory, visualized in the chart above, highlights key milestones:&lt;/p&gt;</description>
@@ -32,14 +32,14 @@
     
     <item>
       <title>Growth and Recession</title>
-      <link>http://localhost:1313/posts/growthandrecession/</link>
+      <link>https://ecoindica.com/posts/growthandrecession/</link>
       <pubDate>Fri, 14 Apr 2023 10:25:51 +0545</pubDate>
       
-      <guid>http://localhost:1313/posts/growthandrecession/</guid>
+      <guid>https://ecoindica.com/posts/growthandrecession/</guid>
       <description>&lt;h4 id=&#34;us-historical-growth-and-recession&#34;&gt;US Historical Growth and Recession&lt;/h4&gt;
 &lt;p&gt;This chart illustrates the US real Gross Domestic Product (GDP) on a quarterly basis from 1947 to 2020. The graph includes shaded vertical bars that represent periods of recession or economic contraction. A recession is defined as negative economic growth for two consecutive quarters, and this definition is also applied to this graph. The most recent instances of a recession were observed during the 2008 financial crisis and the COVID-19 pandemic.
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/us/cgdp.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://ecoindica.com/images/us/cgdp.svg&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/p&gt;</description>
     </item>
