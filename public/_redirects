@@ -1,7 +1,12 @@
-# Redirect all www to non-www
+# Redirect www to non-www
 https://www.ecoindica.com/* https://ecoindica.com/:splat 301!
 
-# Redirect old links to new ones
+# Redirect old URLs to new URLs
 /post/first-post https://ecoindica.com/posts/componentofgdp/ 301!
-/posts/componentofgdp https://ecoindica.com/posts/componentofgdp/ 301!
+/posts/gdp25 https://ecoindica.com/posts/usa-gdp-composition-2024-2025-pie-chart-sector-breakdown-economic-analysis/ 301!
+/posts/old-post-example https://ecoindica.com/posts/new-post-slug/ 301!  # add more old->new redirects here
 
+# Optional: catch-all for old /post/ URLs
+/post/* https://ecoindica.com/posts/:splat/ 301!
+# Optional: catch-all for old /posts/ URLs
+/posts/* https://ecoindica.com/posts/:splat/ 301!
