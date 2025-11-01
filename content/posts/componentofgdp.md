@@ -4,6 +4,7 @@ date: 2025-04-07
 draft: false
 tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2022", "2024", "sector", "breakdown", "latest", "pie", "chart", "pie chart"]
 weight: 3
+slug: componentofgdp
 aliases:
 - /post/first-post
 - /posts/componentofgdp

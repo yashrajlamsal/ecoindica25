@@ -5,6 +5,9 @@ tags: ["gdp-pie-chart", "us-gdp-by-sector", "us-gdp-components", "us-gdp-pie-cha
 countries: ["United States"]
 draft: false
 weight: 1
+slug: gdp25
+aliases:
+  - /posts/gdp25/
 description: "Comprehensive USA GDP composition analysis for 2024-2025 with interactive pie charts. Explore US GDP by sector breakdown, components including consumption (68.2%), investment (17.6%), government spending (17.2%), exports and imports. Latest economic data and visualizations."
 ---
 
