@@ -6,8 +6,8 @@ tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2022", "2
 weight: 3
 slug: componentofgdp      # ensures Hugo generates /posts/componentofgdp/
 aliases:
-  - /post/first-post      # redirect old URL to this page
-# remove /posts/componentofgdp/ from aliases
+- /post/first-post
+- /posts/componentofgdp
 ---
 
 
