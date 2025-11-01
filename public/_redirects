@@ -1,12 +1,14 @@
-# Redirect www to non-www
+# Redirect all www to non-www
 https://www.ecoindica.com/* https://ecoindica.com/:splat 301!
 
-# Redirect old URLs to new URLs
-/post/first-post https://ecoindica.com/posts/componentofgdp/ 301!
-/posts/gdp25 https://ecoindica.com/posts/usa-gdp-composition-2024-2025-pie-chart-sector-breakdown-economic-analysis/ 301!
-/posts/old-post-example https://ecoindica.com/posts/new-post-slug/ 301!  # add more old->new redirects here
+# Individual old URLs to new ones
+/post/first-post/ /posts/componentofgdp/ 301!
+/posts/gdp25/ /posts/usa-gdp-composition-2024-2025-pie-chart-sector-breakdown-economic-analysis/ 301!
+/posts/old-post-example/ /posts/new-post-slug/ 301!   # add more old->new redirects here
 
-# Optional: catch-all for old /post/ URLs
-/post/* https://ecoindica.com/posts/:splat/ 301!
-# Optional: catch-all for old /posts/ URLs
-/posts/* https://ecoindica.com/posts/:splat/ 301!
+# Catch-all for old /post/ URLs
+/post/* /posts/:splat/ 301!
+
+# Optional catch-all for old /posts/ URLs (if you had changes in slugs)
+# This ensures any old /posts/* with wrong slug gets redirected to correct slug if it exists
+/posts/* /posts/:splat/ 301!
