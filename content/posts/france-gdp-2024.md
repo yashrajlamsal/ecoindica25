@@ -4,6 +4,9 @@ date: 2025-10-27T17:08:35+05:45
 tags: ['macroeconomic', 'sector', 'france-gdp-pie-chart', 'france-gdp-components', 'french-economy', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'sector-analysis', 'tourism-economy', 'government-spending']
 description: "France's GDP composition 2023 pie chart showing diversified economy breakdown. France balanced strong domestic consumption with significant government spending across tourism, aerospace, and luxury goods sectors."
 countries: ["France"]
+slug: france-gdp-2024
+aliases:
+  - /posts/france-gdp-2024/
 ---
 
 ## France GDP Pie Chart 2023

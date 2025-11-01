@@ -4,6 +4,10 @@ date: 2023-04-15T16:53:59+05:45
 draft: False
 tags: ["gdp deflator", "cpi", "us", "2022"]
 countries: ["United States"]
+slug: inflation
+aliases:
+  - /posts/inflation/
+
 
 ---
 ### The GDP Deflator and the CPI as a measures of Inflation

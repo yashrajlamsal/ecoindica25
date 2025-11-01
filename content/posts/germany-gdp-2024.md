@@ -5,6 +5,10 @@ draft: false
 tags: ['macroeconomic', 'sector', 'germany-gdp-pie-chart', 'germany-gdp-components', 'german-economy', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'sector-analysis', 'export-economy', 'european-union']
 description: "Germany's GDP composition 2023 pie chart showing export-oriented economy breakdown. Germany maintained its position as Europe's economic powerhouse with strong manufacturing and engineering exports."
 countries: ["Germany"]
+slug: germany-gdp-2024
+aliases:
+  - /posts/germany-gdp-2024/
+
 ---
 
 ## Germany GDP Pie Chart 2023

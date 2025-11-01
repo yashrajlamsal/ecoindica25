@@ -4,6 +4,10 @@ date: 2023-04-14T10:26:20+05:45
 draft: false
 tags: ["US", "export", "import", "open", "nepal"]
 countries: ["United States", "Nepal"]
+slug: internationaltrade
+aliases:
+  - /posts/internationaltrade/
+
 
 aliases:
 - /post/article2

@@ -5,6 +5,10 @@ draft: false
 tags: ['macroeconomic', 'sector', 'uk-gdp-pie-chart', 'uk-gdp-components', 'british-economy', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'sector-analysis', 'service-economy', 'financial-services']
 description: "UK GDP composition 2023 pie chart showing service sector economy breakdown. The UK economy was characterized by strong service sector consumption and significant international trade with London as a global financial hub."
 countries: ["United Kingdom"]
+slug: united-kingdom-gdp-2024
+aliases:
+  - /posts/united-kingdom-gdp-2024/
+
 ---
 
 ## United Kingdom GDP Pie Chart 2023

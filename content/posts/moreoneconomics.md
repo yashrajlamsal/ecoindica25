@@ -3,6 +3,10 @@ title: "Resources on Economics"
 date: 2023-10-06T15:09:28+05:45
 draft: false
 tags: ["economice", "powerpoint", "ppt", "slides","microeconomics"]
+slug: moreoneconomics
+aliases:
+  - /posts/moreoneconomics/
+
 ---
 # Principles of Microeconomics Mankiw, N. Gregory
 

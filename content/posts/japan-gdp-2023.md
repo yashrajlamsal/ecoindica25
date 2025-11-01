@@ -5,6 +5,10 @@ draft: false
 tags: ['macroeconomic', 'sector', 'japan-gdp-pie-chart', 'japan-gdp-components', 'japanese-economy', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'sector-analysis', 'technology-exports', 'mature-economy']
 description: "Japan's GDP composition 2023 pie chart showing mature economy breakdown. Japan continued to be driven by domestic consumption and technological exports as a global innovation leader."
 countries: ["Japan"]
+slug: japan-gdp-2023
+aliases:
+  - /posts/japan-gdp-2023/
+
 ---
 
 ## Japan GDP Pie Chart 2023

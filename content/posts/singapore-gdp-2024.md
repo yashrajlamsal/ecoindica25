@@ -5,6 +5,10 @@ draft: false
 tags: ['macroeconomic', 'sector', 'singapore-gdp-pie-chart', 'singapore-gdp-components', 'singapore-economy', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'sector-analysis', 'trade-economy', 'global-hub']
 description: "Singapore's GDP composition 2024 pie chart showing trade-dependent economy breakdown. Singapore showed exceptionally high export levels relative to its GDP size as a global trade and finance hub."
 countries: ["Singapore"]
+slug: singapore-gdp-2024
+aliases:
+  - /posts/singapore-gdp-2024/
+
 ---
 
 ## Singapore GDP Pie Chart 2024

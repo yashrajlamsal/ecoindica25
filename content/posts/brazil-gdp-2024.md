@@ -5,6 +5,10 @@ tags: ['macroeconomic', 'sector', 'brazil-gdp-pie-chart', 'brazil-gdp-components
 description: "Brazil's GDP composition 2024 pie chart showing emerging economy breakdown. Brazil showed strong domestic market growth with increasing international trade in agriculture, mining, and services sectors."
 countries: ["Brazil"]
 draft: false
+slug: brazil-gdp-2024
+aliases:
+  - /posts/brazil-gdp-2024/
+
 ---
 
 ## Brazil GDP Pie Chart 2024
