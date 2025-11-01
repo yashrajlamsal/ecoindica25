@@ -21,10 +21,9 @@ params:
   comments: true
 
 canonifyURLs: true       # ensures absolute URLs
-trailingSlash: true      # ensures folder URLs, not .html files
+trailingSlash: true      # ensures folder-style URLs
 permalinks:
   posts: /posts/:slug/   # all posts use the slug for URLs
-
 
 
 #analytics:
