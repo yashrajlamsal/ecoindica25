@@ -36,10 +36,6 @@ menu:
       name: By Country
       url: /countries/
       weight: 5
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/

@@ -1,16 +1,18 @@
 ---
-title: "Components of Gross Domestic Product (GDP) 2024"
+title: "Global GDP Components Analysis 2024: US, China, India & Nepal Economic Structures"
 date: 2025-04-07
 draft: false
-tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2022", "2024", "sector", "breakdown", "latest", "pie", "chart", "pie chart"]
+tags: ["gdp-analysis-2024", "economic-components", "consumption", "investment", "government-spending", "exports", "imports", "us-economy", "china-economy", "india-economy", "nepal-economy", "macroeconomic", "sector-breakdown", "economic-indicators", "comparative-economics"]
 weight: 3
-slug: componentofgdp      # ensures Hugo generates /posts/componentofgdp/
+slug: "global-gdp-components-2024"
+description: "Comprehensive 2024 GDP components analysis across major economies. Explore consumption, investment, government spending, and trade patterns for US, China, India, and Nepal with latest data, interactive pie charts, and comparative economic insights."
+countries: ["United States", "Nepal", "China", "India"]
 aliases:
 - /post/first-post
 - /posts/componentofgdp
 ---
 
-
+## 🇺🇸 United States GDP Analysis 2024
 ### The components of US Gross Domestic Product (GDP) for the year 2024 
 {{< figure src="/images/24/us/pie.svg">}}
 
@@ -103,3 +105,5 @@ Federal Reserve Bank of St. Louis, One Federal Reserve Bank \
 Government of Nepal, National Planning Commission, Central Bureau Of Statistics \
 Khan Academy \
 THE WORLD FACTBOOK 
+
+*Comprehensive Economic Analysis by [ecoindica.com](https://ecoindica.com) - Global Economic Indicators & Data Visualization*

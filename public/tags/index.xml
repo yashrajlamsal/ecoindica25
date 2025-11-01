@@ -710,92 +710,65 @@
     </item>
     
     <item>
-      <title>2022</title>
-      <link>http://localhost:1313/tags/2022/</link>
+      <title>China-Economy</title>
+      <link>http://localhost:1313/tags/china-economy/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/2022/</guid>
+      <guid>http://localhost:1313/tags/china-economy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>2024</title>
-      <link>http://localhost:1313/tags/2024/</link>
+      <title>Comparative-Economics</title>
+      <link>http://localhost:1313/tags/comparative-economics/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/2024/</guid>
+      <guid>http://localhost:1313/tags/comparative-economics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Breakdown</title>
-      <link>http://localhost:1313/tags/breakdown/</link>
+      <title>Economic-Components</title>
+      <link>http://localhost:1313/tags/economic-components/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/breakdown/</guid>
+      <guid>http://localhost:1313/tags/economic-components/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Chart</title>
-      <link>http://localhost:1313/tags/chart/</link>
+      <title>Gdp-Analysis-2024</title>
+      <link>http://localhost:1313/tags/gdp-analysis-2024/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/chart/</guid>
+      <guid>http://localhost:1313/tags/gdp-analysis-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Export</title>
-      <link>http://localhost:1313/tags/export/</link>
+      <title>India-Economy</title>
+      <link>http://localhost:1313/tags/india-economy/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/export/</guid>
+      <guid>http://localhost:1313/tags/india-economy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Import</title>
-      <link>http://localhost:1313/tags/import/</link>
+      <title>Sector-Breakdown</title>
+      <link>http://localhost:1313/tags/sector-breakdown/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/import/</guid>
+      <guid>http://localhost:1313/tags/sector-breakdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Latest</title>
-      <link>http://localhost:1313/tags/latest/</link>
+      <title>Us-Economy</title>
+      <link>http://localhost:1313/tags/us-economy/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/latest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pie</title>
-      <link>http://localhost:1313/tags/pie/</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/pie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pie Chart</title>
-      <link>http://localhost:1313/tags/pie-chart/</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/pie-chart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>US</title>
-      <link>http://localhost:1313/tags/us/</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/us/</guid>
+      <guid>http://localhost:1313/tags/us-economy/</guid>
       <description></description>
     </item>
     
@@ -845,6 +818,15 @@
     </item>
     
     <item>
+      <title>2022</title>
+      <link>http://localhost:1313/tags/2022/</link>
+      <pubDate>Sat, 15 Apr 2023 16:53:59 +0545</pubDate>
+      
+      <guid>http://localhost:1313/tags/2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cpi</title>
       <link>http://localhost:1313/tags/cpi/</link>
       <pubDate>Sat, 15 Apr 2023 16:53:59 +0545</pubDate>
@@ -859,6 +841,33 @@
       <pubDate>Sat, 15 Apr 2023 16:53:59 +0545</pubDate>
       
       <guid>http://localhost:1313/tags/gdp-deflator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>US</title>
+      <link>http://localhost:1313/tags/us/</link>
+      <pubDate>Sat, 15 Apr 2023 16:53:59 +0545</pubDate>
+      
+      <guid>http://localhost:1313/tags/us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Export</title>
+      <link>http://localhost:1313/tags/export/</link>
+      <pubDate>Fri, 14 Apr 2023 10:26:20 +0545</pubDate>
+      
+      <guid>http://localhost:1313/tags/export/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Import</title>
+      <link>http://localhost:1313/tags/import/</link>
+      <pubDate>Fri, 14 Apr 2023 10:26:20 +0545</pubDate>
+      
+      <guid>http://localhost:1313/tags/import/</guid>
       <description></description>
     </item>
     
