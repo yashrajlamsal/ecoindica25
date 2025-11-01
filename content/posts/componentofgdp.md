@@ -4,11 +4,12 @@ date: 2025-04-07
 draft: false
 tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2022", "2024", "sector", "breakdown", "latest", "pie", "chart", "pie chart"]
 weight: 3
-slug: componentofgdp
+slug: componentofgdp      # ensures Hugo generates /posts/componentofgdp/
 aliases:
-- /post/first-post
-- /posts/componentofgdp
+  - /post/first-post      # redirect old URL to this page
+# remove /posts/componentofgdp/ from aliases
 ---
+
 
 ### The components of US Gross Domestic Product (GDP) for the year 2024 
 {{< figure src="/images/24/us/pie.svg">}}

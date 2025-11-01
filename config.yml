@@ -26,6 +26,7 @@ permalinks:
   posts: /posts/:slug/   # all posts use the slug for URLs
 
 
+
 #analytics:
 #    google:
 #      SiteVerificationTag: "XYZabc"
