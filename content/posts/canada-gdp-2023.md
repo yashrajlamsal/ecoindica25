@@ -5,6 +5,7 @@ draft: false
 tags: ['macroeconomic', 'sector', 'canada-gdp-pie-chart', 'canada-gdp-components', 'canadian-economy', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'resource-exports', 'services-economy', 'north-american-trade']
 description: "Canada's GDP composition 2023 pie chart showing mixed economy breakdown. Canada maintained economic strength through services sector dominance and natural resource exports, with close integration to the United States economy."
 countries: ["Canada"]
+categories: ["Economy", "Canada GDP"]
 slug: canada-gdp-2023
 aliases:
   - /posts/canada-gdp-2023/

@@ -5,6 +5,7 @@ draft: false
 tags: ['macroeconomic', 'sector', 'india-gdp-pie-chart', 'india-gdp-components', 'indian-economy', 'gdp-pie-chart', 'economic-pie', 'gdp-breakdown', 'macroeconomic', 'sector-analysis', 'emerging-economy', 'domestic-consumption']
 description: "India's GDP composition 2024 pie chart showing components breakdown. India's rapidly expanding economy showed strong domestic consumption and increasing investment activity as the fastest-growing major economy."
 countries: ["India"]
+categories: ["Economy", "India GDP"]
 slug: india-gdp-2024
 aliases:
   - /posts/india-gdp-2024/

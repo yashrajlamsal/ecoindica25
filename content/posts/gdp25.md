@@ -3,6 +3,7 @@ title: "USA GDP Composition 2024-2025: Pie Chart, Sector Breakdown & Economic An
 date: 2025-10-26T10:30:14+05:45
 tags: ["gdp-pie-chart", "us-gdp-by-sector", "us-gdp-components", "us-gdp-pie-chart-2024", "components-of-us-gdp", "us-gdp-by-component", "economic-pie", "gdp-breakdown-us", "macroeconomic", "sector-analysis", "united-states-economy", "gdp-composition", "economic-indicators", "consumption", "investment", "government-spending", "exports", "imports"]
 countries: ["United States"]
+categories: ["Economy", "USA GDP"]
 draft: false
 weight: 1
 slug: gdp25

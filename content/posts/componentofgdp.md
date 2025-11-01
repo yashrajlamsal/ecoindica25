@@ -7,6 +7,7 @@ weight: 3
 slug: "global-gdp-components-2024"
 description: "Comprehensive 2024 GDP components analysis across major economies. Explore consumption, investment, government spending, and trade patterns for US, China, India, and Nepal with latest data, interactive pie charts, and comparative economic insights."
 countries: ["United States", "Nepal", "China", "India"]
+categories: ["Economy", "USA GDP", "China GDP", "India GDP", "Nepal GDP"]
 aliases:
 - /post/first-post
 - /posts/componentofgdp
