@@ -1,15 +1,15 @@
 ---
 title: "Components of Gross Domestic Product (GDP) 2024"
 date: 2025-04-07
-draft: false
-tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2022", "2024", "sector", "breakdown", "latest", "pie", "chart", "pie chart"]
+slug: componentofgdp      # ensures URL uses this slug
+url: /posts/componentofgdp/   # forces this exact URL
+tags: ["gdp", "consumption", "investment", "export", "import", "us", "2022", "2024", "sector", "breakdown", "latest", "pie", "chart", "pie chart"]
 countries: ["United States", "China", "India", "Nepal"]
 weight: 3
 description: "An analysis of the components of Gross Domestic Product (GDP) for the United States, China, India, and Nepal for the year 2024, including pie charts and detailed breakdowns."
-aliases:
-- /post/first-post
-- /posts/componentofgdp
+aliases: ["/post/first-post/"]
 ---
+
 
 ### The components of US Gross Domestic Product (GDP) for the year 2024 
 {{< figure src="/images/24/us/pie.svg">}}

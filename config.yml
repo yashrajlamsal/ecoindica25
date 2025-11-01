@@ -20,6 +20,12 @@ params:
   ShowPostNavLinks: true
   comments: true
 
+canonifyURLs: true       # ensures absolute URLs
+trailingSlash: true      # ensures folder URLs, not .html files
+permalinks:
+  posts: /posts/:slug/   # all posts use the slug for URLs
+
+
 #analytics:
 #    google:
 #      SiteVerificationTag: "XYZabc"
