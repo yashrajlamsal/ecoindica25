@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>France on Economic Indicators</title><link>https://www.ecoindica.com/countries/france/</link><description>Recent content in France on Economic Indicators</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Oct 2025 17:08:35 +0545</lastBuildDate><atom:link href="https://www.ecoindica.com/countries/france/index.xml" rel="self" type="application/rss+xml"/><item><title>France GDP Composition 2023 - Pie Chart &amp; Components Breakdown</title><link>https://www.ecoindica.com/posts/france-gdp-2024/</link><pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate><guid>https://www.ecoindica.com/posts/france-gdp-2024/</guid><description>France&amp;#39;s GDP composition 2023 pie chart showing diversified economy breakdown. France balanced strong domestic consumption with significant government spending across tourism, aerospace, and luxury goods sectors.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>France on Economic Indicators</title>
+    <link>http://localhost:37057/countries/france/</link>
+    <description>Recent content in France on Economic Indicators</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Oct 2025 17:08:35 +0545</lastBuildDate><atom:link href="http://localhost:37057/countries/france/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>France GDP Composition 2023 - Pie Chart &amp; Components Breakdown</title>
+      <link>http://localhost:37057/posts/france-gdp-2024/</link>
+      <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
+      
+      <guid>http://localhost:37057/posts/france-gdp-2024/</guid>
+      <description>France&amp;#39;s GDP composition 2023 pie chart showing diversified economy breakdown. France balanced strong domestic consumption with significant government spending across tourism, aerospace, and luxury goods sectors.</description>
+    </item>
+    
+  </channel>
+</rss>

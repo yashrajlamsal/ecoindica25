@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Consumption-Economy on Economic Indicators</title><link>https://www.ecoindica.com/tags/consumption-economy/</link><description>Recent content in Consumption-Economy on Economic Indicators</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Oct 2025 17:08:35 +0545</lastBuildDate><atom:link href="https://www.ecoindica.com/tags/consumption-economy/index.xml" rel="self" type="application/rss+xml"/><item><title>China GDP Composition 2024 - Pie Chart &amp; Components Breakdown</title><link>https://www.ecoindica.com/posts/china-gdp-2023/</link><pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate><guid>https://www.ecoindica.com/posts/china-gdp-2023/</guid><description>China&amp;#39;s GDP composition 2024 pie chart showing consumption, investment, government spending, exports and imports breakdown. China&amp;#39;s economy demonstrated robust growth with consumption driving the majority of economic activity.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Consumption-Economy on Economic Indicators</title>
+    <link>http://localhost:37057/tags/consumption-economy/</link>
+    <description>Recent content in Consumption-Economy on Economic Indicators</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Oct 2025 17:08:35 +0545</lastBuildDate><atom:link href="http://localhost:37057/tags/consumption-economy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>China GDP Composition 2024 - Pie Chart &amp; Components Breakdown</title>
+      <link>http://localhost:37057/posts/china-gdp-2023/</link>
+      <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
+      
+      <guid>http://localhost:37057/posts/china-gdp-2023/</guid>
+      <description>China&amp;#39;s GDP composition 2024 pie chart showing consumption, investment, government spending, exports and imports breakdown. China&amp;#39;s economy demonstrated robust growth with consumption driving the majority of economic activity.</description>
+    </item>
+    
+  </channel>
+</rss>

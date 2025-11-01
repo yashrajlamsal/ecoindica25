@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cpi on Economic Indicators</title><link>https://www.ecoindica.com/tags/cpi/</link><description>Recent content in Cpi on Economic Indicators</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 15 Apr 2023 16:53:59 +0545</lastBuildDate><atom:link href="https://www.ecoindica.com/tags/cpi/index.xml" rel="self" type="application/rss+xml"/><item><title>Inflation</title><link>https://www.ecoindica.com/posts/inflation/</link><pubDate>Sat, 15 Apr 2023 16:53:59 +0545</pubDate><guid>https://www.ecoindica.com/posts/inflation/</guid><description>&lt;h3 id="the-gdp-deflator-and-the-cpi-as-a-measures-of-inflation">The GDP Deflator and the CPI as a measures of Inflation&lt;/h3>
-&lt;p>Inflation refers to the pace at which prices increase over time. The graph displays the two types of inflation indicators used: the GDP Deflator and the Consumer Price Index (CPI), from 1965 to 2022. The two measures of inflation mostly move in tandem with occasional deviations. If you want to learn more about these indicators, the book &amp;ldquo;Principles of Macroeconomics&amp;rdquo; by Gregory Mankiw is a useful resource.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cpi on Economic Indicators</title>
+    <link>http://localhost:37057/tags/cpi/</link>
+    <description>Recent content in Cpi on Economic Indicators</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Apr 2023 16:53:59 +0545</lastBuildDate><atom:link href="http://localhost:37057/tags/cpi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inflation</title>
+      <link>http://localhost:37057/posts/inflation/</link>
+      <pubDate>Sat, 15 Apr 2023 16:53:59 +0545</pubDate>
+      
+      <guid>http://localhost:37057/posts/inflation/</guid>
+      <description>&lt;h3 id=&#34;the-gdp-deflator-and-the-cpi-as-a-measures-of-inflation&#34;&gt;The GDP Deflator and the CPI as a measures of Inflation&lt;/h3&gt;
+&lt;p&gt;Inflation refers to the pace at which prices increase over time. The graph displays the two types of inflation indicators used: the GDP Deflator and the Consumer Price Index (CPI), from 1965 to 2022. The two measures of inflation mostly move in tandem with occasional deviations. If you want to learn more about these indicators, the book &amp;ldquo;Principles of Macroeconomics&amp;rdquo; by Gregory Mankiw is a useful resource.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

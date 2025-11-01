@@ -1,1 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Categories on Economic Indicators</title><link>https://www.ecoindica.com/categories/</link><description>Recent content in Categories on Economic Indicators</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 31 Oct 2025 18:15:56 +0545</lastBuildDate><atom:link href="https://www.ecoindica.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Canada GDP</title><link>https://www.ecoindica.com/categories/canada-gdp/</link><pubDate>Fri, 31 Oct 2025 18:15:56 +0545</pubDate><guid>https://www.ecoindica.com/categories/canada-gdp/</guid><description/></item><item><title>Economy</title><link>https://www.ecoindica.com/categories/economy/</link><pubDate>Fri, 31 Oct 2025 18:15:56 +0545</pubDate><guid>https://www.ecoindica.com/categories/economy/</guid><description/></item><item><title>Australia GDP</title><link>https://www.ecoindica.com/categories/australia-gdp/</link><pubDate>Fri, 31 Oct 2025 18:15:30 +0545</pubDate><guid>https://www.ecoindica.com/categories/australia-gdp/</guid><description/></item><item><title>Brazil GDP</title><link>https://www.ecoindica.com/categories/brazil-gdp/</link><pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate><guid>https://www.ecoindica.com/categories/brazil-gdp/</guid><description/></item><item><title>China GDP</title><link>https://www.ecoindica.com/categories/china-gdp/</link><pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate><guid>https://www.ecoindica.com/categories/china-gdp/</guid><description/></item><item><title>India GDP</title><link>https://www.ecoindica.com/categories/india-gdp/</link><pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate><guid>https://www.ecoindica.com/categories/india-gdp/</guid><description/></item><item><title>Nepal</title><link>https://www.ecoindica.com/categories/nepal/</link><pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate><guid>https://www.ecoindica.com/categories/nepal/</guid><description/></item><item><title>USA GDP</title><link>https://www.ecoindica.com/categories/usa-gdp/</link><pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate><guid>https://www.ecoindica.com/categories/usa-gdp/</guid><description/></item><item><title>Nepal GDP</title><link>https://www.ecoindica.com/categories/nepal-gdp/</link><pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><guid>https://www.ecoindica.com/categories/nepal-gdp/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Economic Indicators</title>
+    <link>http://localhost:37057/categories/</link>
+    <description>Recent content in Categories on Economic Indicators</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Oct 2025 18:15:56 +0545</lastBuildDate><atom:link href="http://localhost:37057/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canada GDP</title>
+      <link>http://localhost:37057/categories/canada-gdp/</link>
+      <pubDate>Fri, 31 Oct 2025 18:15:56 +0545</pubDate>
+      
+      <guid>http://localhost:37057/categories/canada-gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economy</title>
+      <link>http://localhost:37057/categories/economy/</link>
+      <pubDate>Fri, 31 Oct 2025 18:15:56 +0545</pubDate>
+      
+      <guid>http://localhost:37057/categories/economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia GDP</title>
+      <link>http://localhost:37057/categories/australia-gdp/</link>
+      <pubDate>Fri, 31 Oct 2025 18:15:30 +0545</pubDate>
+      
+      <guid>http://localhost:37057/categories/australia-gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brazil GDP</title>
+      <link>http://localhost:37057/categories/brazil-gdp/</link>
+      <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
+      
+      <guid>http://localhost:37057/categories/brazil-gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>China GDP</title>
+      <link>http://localhost:37057/categories/china-gdp/</link>
+      <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
+      
+      <guid>http://localhost:37057/categories/china-gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India GDP</title>
+      <link>http://localhost:37057/categories/india-gdp/</link>
+      <pubDate>Mon, 27 Oct 2025 17:08:35 +0545</pubDate>
+      
+      <guid>http://localhost:37057/categories/india-gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nepal</title>
+      <link>http://localhost:37057/categories/nepal/</link>
+      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
+      
+      <guid>http://localhost:37057/categories/nepal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USA GDP</title>
+      <link>http://localhost:37057/categories/usa-gdp/</link>
+      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
+      
+      <guid>http://localhost:37057/categories/usa-gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nepal GDP</title>
+      <link>http://localhost:37057/categories/nepal-gdp/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:37057/categories/nepal-gdp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

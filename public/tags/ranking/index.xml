@@ -1,5 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ranking on Economic Indicators</title><link>https://www.ecoindica.com/tags/ranking/</link><description>Recent content in Ranking on Economic Indicators</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 26 Oct 2025 10:30:14 +0545</lastBuildDate><atom:link href="https://www.ecoindica.com/tags/ranking/index.xml" rel="self" type="application/rss+xml"/><item><title>Nepal's GDP Per Capita Journey: From 3rd Poorest to 28th (from 2031 to 2080 BS)</title><link>https://www.ecoindica.com/posts/journeynp/</link><pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate><guid>https://www.ecoindica.com/posts/journeynp/</guid><description>&lt;h3 id="nepals-gdp-per-capita-journey-from-3rd-poorest-to-28th-from-2031-to-2080-bs">Nepal&amp;rsquo;s GDP Per Capita Journey: From 3rd Poorest to 28th (from 2031 to 2080 BS)&lt;/h3>
-&lt;figure>
-&lt;img loading="lazy" src="https://www.ecoindica.com/images/25/np/nepal_gdp_ranking.png"/>
-&lt;/figure>
-&lt;p>Nepal’s economic journey, as measured by GDP per capita rankings, reflects a story of resilience and gradual progress amidst significant political changes. From the Nepali year 2031 BS (1974 CE) to 2080 BS (2023 CE), Nepal climbed from being the &lt;em>world’s third poorest country&lt;/em> to the &lt;em>30th poorest&lt;/em> by 2077 BS (2020 CE) and further to the &lt;em>28th poorest&lt;/em> by 2080 BS (2023 CE). This trajectory, visualized in the chart above, highlights key milestones:&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ranking on Economic Indicators</title>
+    <link>http://localhost:37057/tags/ranking/</link>
+    <description>Recent content in Ranking on Economic Indicators</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Oct 2025 10:30:14 +0545</lastBuildDate><atom:link href="http://localhost:37057/tags/ranking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nepal&#39;s GDP Per Capita Journey: From 3rd Poorest to 28th (from 2031 to 2080 BS)</title>
+      <link>http://localhost:37057/posts/journeynp/</link>
+      <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
+      
+      <guid>http://localhost:37057/posts/journeynp/</guid>
+      <description>&lt;h3 id=&#34;nepals-gdp-per-capita-journey-from-3rd-poorest-to-28th-from-2031-to-2080-bs&#34;&gt;Nepal&amp;rsquo;s GDP Per Capita Journey: From 3rd Poorest to 28th (from 2031 to 2080 BS)&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:37057/images/25/np/nepal_gdp_ranking.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Nepal’s economic journey, as measured by GDP per capita rankings, reflects a story of resilience and gradual progress amidst significant political changes. From the Nepali year 2031 BS (1974 CE) to 2080 BS (2023 CE), Nepal climbed from being the &lt;em&gt;world’s third poorest country&lt;/em&gt; to the &lt;em&gt;30th poorest&lt;/em&gt; by 2077 BS (2020 CE) and further to the &lt;em&gt;28th poorest&lt;/em&gt; by 2080 BS (2023 CE). This trajectory, visualized in the chart above, highlights key milestones:&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
